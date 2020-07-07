@@ -16,8 +16,11 @@
         },
         "serverFarmSku": {
             "defaultValue": {
-                "Tier": "Premium",
-                "Name": "P1"
+                "name": "P1v2",
+                "tier": "PremiumV2",
+                "size": "P1v2",
+                "family": "Pv2",
+                "capacity": 1
             },
             "type": "object",
             "metadata": {
